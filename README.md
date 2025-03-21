@@ -1,5 +1,5 @@
 # My-Data-Analytics-Projects
-# My Data Analytics Portfolio 🚀  
+# My Data Analytics Portfolio 
 Welcome to my data analytics portfolio! This repository contains my projects in SQL, Python, and Power BI/Tableau.
 
 ## 📂 Project Categories
