@@ -6,7 +6,7 @@ Welcome to my data analytics portfolio! This repository contains my projects in 
 - **SQL-Queries** → SQL scripts for data analysis
 - **Python-Data-Analysis** → Pandas, Matplotlib, and EDA projects
 - **PowerBI-Tableau-Dashboards** → Data visualization projects
-- 📊 Excel-Projects → Data cleaning, analysis, and visualization using MS Excel
+- **Excel-Projects** → Data cleaning, analysis, and visualization using MS Excel
 
 Stay tuned for updates!
 
